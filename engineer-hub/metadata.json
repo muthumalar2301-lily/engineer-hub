@@ -1,0 +1,8 @@
+{
+  "name": "Engineer Hub",
+  "description": "AI-Powered Engineering Problem Solving & Collaborative Learning Platform. Solve real-world engineering problems, generate project innovations, organize smart notes, and collaborate in digital classrooms with shared AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
